@@ -1,5 +1,7 @@
 # quick-timing
 
+[![npm version](https://badge.fury.io/js/quick-timing.svg)](https://badge.fury.io/js/quick-timing)
+
 ## About
 
 You want to measure a function
